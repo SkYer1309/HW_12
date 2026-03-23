@@ -15,6 +15,5 @@ public class Main {
 
         bookTwo.year = 2010;
         System.out.println("Книга 2: " + bookTwo);
-
     }
 }
