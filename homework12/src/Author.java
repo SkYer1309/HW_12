@@ -19,4 +19,7 @@ public class Author {
     public String getName2() {
         return this.name2;
     }
+
+
+
 }
