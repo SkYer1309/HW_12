@@ -1,6 +1,6 @@
 public class Author {
-    private final String name1;
-    private final String name2;
+    private  String name1;
+    private  String name2;
 
     @Override
     public String toString() {
